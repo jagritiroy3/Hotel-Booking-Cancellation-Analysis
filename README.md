@@ -43,3 +43,6 @@ Dashboard Features
 . Cancellation Analysis
 . Guest Type Distribution
 . Hotel-wise Performance Tracking
+
+## Dashboard Preview
+![Hotel Revenue Dashboard](hotel-revenue.png.png)
