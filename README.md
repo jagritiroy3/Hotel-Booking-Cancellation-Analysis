@@ -45,4 +45,4 @@ Dashboard Features
 . Hotel-wise Performance Tracking
 
 ## Dashboard Preview
-![Hotel Revenue Dashboard](hotel-revenue.png.png)
+![Hotel Booking Cancellation Dashboard](hotel-booking.png.png)
