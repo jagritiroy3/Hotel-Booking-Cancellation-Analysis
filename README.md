@@ -110,7 +110,7 @@ Add a screenshot of your pivot table analysis here.
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-GitHub: github.com/jagritiroy3
+GitHub: https://github.com/jagritiroy3
 
 ## ⭐ Acknowledgement
 
